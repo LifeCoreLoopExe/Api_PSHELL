@@ -20,4 +20,6 @@ winget install --id Microsoft.PowerShell --source winget
 PowerShell
 
 Copy
+winget install --id Microsoft.PowerShell.Preview --source winget
 Эт печально
+Спасите меня ("_")
